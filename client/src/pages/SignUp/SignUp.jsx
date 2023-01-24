@@ -18,6 +18,7 @@ const SignUp = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault()
+    setLoading(true)
     if (password !== confirmpassword) {
       Swal.fire({
         title: 'Error!',
@@ -25,7 +26,7 @@ const SignUp = () => {
         icon: 'error',
         confirmButtonText: 'Try again',
       }).then(() => setLoading(false))
-      setLoading(true)
+    } else {
       fetch(`${process.env.REACT_APP_API}/user/`, {
         method: 'POST',
         headers: {
@@ -44,8 +45,6 @@ const SignUp = () => {
           navigate('/signin')
         }
       })
-    } else {
-      alert('Invalid Email !')
     }
   }
 
