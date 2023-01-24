@@ -1,0 +1,17 @@
+[
+  {
+    "imgUrl": "/SVGs/bookmark.svg",
+    "text": "We provide courses from the best industry experts",
+    "color": "emerald"
+  },
+  {
+    "imgUrl": "/SVGs/student.svg",
+    "text": "You can Join our platform and avail some quality free courses",
+    "color": "rose"
+  },
+  {
+    "imgUrl": "/SVGs/teacher.svg",
+    "text": "Get registered as a faculty member to start teaching.",
+    "color": "fuchsia"
+  }
+]
