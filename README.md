@@ -8,7 +8,7 @@
 <h2 align=center> "e-learning-platform - Adding A Whole New Dimension To Modern E-Learning!  "  
 <h1 align=center> Introduction 🚩 </h1>
 
-  <p align="center">
+   <p align="center">
    e-learning-platform is your one stop destination for an ultimate online learning experience. We offer you with all of the latest technological tools to make your e-learning process smooth and hassle free. e-learning-platform is an organization developed by the students, for the students. In the era of a raging pandemic, education is one of the domains that has been massively affected, and e-learning-platform is just a small initiative to help students get back on track and catch up with their academic lives. We offer an array of features including a huge range of courses to choose from, each equipped with a series of lectures, assignments, and tests. On successful completion of a course, students will receive a badge, as a means of encouragement and to provide further inspiration. Say goodbye to unproductive days spent scrolling on your phone, with e-learning-platform it’s time for you to level up your skills and take a step towards bright career opportunities!
 
 <h1 align=center> Tech Stack 🔥 </h1>  
