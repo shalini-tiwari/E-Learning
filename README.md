@@ -17,4 +17,4 @@
     
 <h1 align=center> Application Preview 👀 </h1> 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/70858557/150777300-2f78830a-5976-4d46-8c3c-dea1fbbdfe0a.PNG" height="200px" width="400px" > <img src="https://user-images.githubusercontent.com/70858557/150777322-9a944e77-60cc-4a1b-996a-7ce1cd13990f.PNG" height="200px" width="400px" >  <img src="https://user-images.githubusercontent.com/70858557/150777343-6d506126-897d-4c22-bf9a-6da2404ddfa2.PNG" height="200px" width="400px" >
+     <img src="https://user-images.githubusercontent.com/70858557/150777300-2f78830a-5976-4d46-8c3c-dea1fbbdfe0a.PNG" height="200px" width="400px" > <img src="https://user-images.githubusercontent.com/70858557/150777322-9a944e77-60cc-4a1b-996a-7ce1cd13990f.PNG" height="200px" width="400px" >  <img src="https://user-images.githubusercontent.com/70858557/150777343-6d506126-897d-4c22-bf9a-6da2404ddfa2.PNG" height="200px" width="400px" >
