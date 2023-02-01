@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/66238394/150757460-8ae92cc8-114f-4209-9a64-de32df3dbda0.svg" alt="Logo" height="150px" width="150px">
   </a>
 
-<h2 align=center> "e-learning-platform - Adding A Whole New Dimension To Modern E-Learning!  "  
+<h2 align=center> "e-learning-platform -  Adding A Whole New Dimension To Modern E-Learning!  "  
 <h1 align=center> Introduction 🚩 </h1>
 
    <p align="center">
